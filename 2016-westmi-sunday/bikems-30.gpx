@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   West MI Sunday 30
+  </name>
+  <trkseg>
+   <trkpt lat="42.88513" lon="-86.20975"/>
+   <trkpt lat="42.885" lon="-86.20946"/>
+   <trkpt lat="42.88494" lon="-86.20933"/>
+   <trkpt lat="42.88482" lon="-86.20918"/>
+   <trkpt lat="42.8846" lon="-86.20897"/>
+   <trkpt lat="42.88442" lon="-86.20881"/>
+   <trkpt lat="42.88439" lon="-86.20874"/>
+   <trkpt lat="42.8844" lon="-86.20862"/>
+   <trkpt lat="42.88478" lon="-86.20772"/>
+   <trkpt lat="42.88495" lon="-86.20732"/>
+   <trkpt lat="42.88505" lon="-86.20716"/>
+   <trkpt lat="42.88521" lon="-86.20702"/>
+   <trkpt lat="42.88534" lon="-86.20695"/>
+   <trkpt lat="42.88554" lon="-86.2069"/>
+   <trkpt lat="42.88646" lon="-86.20684"/>
+   <trkpt lat="42.88797" lon="-86.20674"/>
+   <trkpt lat="42.88868" lon="-86.20668"/>
+   <trkpt lat="42.88886" lon="-86.2066"/>
+   <trkpt lat="42.88893" lon="-86.20654"/>
+   <trkpt lat="42.8891" lon="-86.20635"/>
+   <trkpt lat="42.88939" lon="-86.20587"/>
+   <trkpt lat="42.88957" lon="-86.20556"/>
+   <trkpt lat="42.88974" lon="-86.20521"/>
+   <trkpt lat="42.8898" lon="-86.20504"/>
+   <trkpt lat="42.88995" lon="-86.20438"/>
+   <trkpt lat="42.89043" lon="-86.20219"/>
+   <trkpt lat="42.8905" lon="-86.20195"/>
+   <trkpt lat="42.8907" lon="-86.20152"/>
+   <trkpt lat="42.89107" lon="-86.201"/>
+   <trkpt lat="42.89169" lon="-86.20039"/>
+   <trkpt lat="42.89177" lon="-86.20026"/>
+   <trkpt lat="42.89182" lon="-86.20002"/>
+   <trkpt lat="42.89182" lon="-86.19995"/>
+   <trkpt lat="42.89182" lon="-86.19995"/>
+   <trkpt lat="42.89192" lon="-86.19219"/>
+   <trkpt lat="42.89196" lon="-86.19025"/>
+   <trkpt lat="42.89205" lon="-86.17993"/>
+   <trkpt lat="42.89207" lon="-86.17684"/>
+   <trkpt lat="42.89214" lon="-86.16516"/>
+   <trkpt lat="42.89217" lon="-86.15995"/>
+   <trkpt lat="42.89229" lon="-86.15263"/>
+   <trkpt lat="42.89248" lon="-86.14178"/>
+   <trkpt lat="42.8925" lon="-86.14055"/>
+  </trkseg>
+ </trk>
+</gpx>
