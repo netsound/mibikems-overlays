@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   2013-westmi-sat-30
+  </name>
+  <trkseg>
+   <trkpt lat="42.65439" lon="-86.19972"/>
+   <trkpt lat="42.65444" lon="-86.19848"/>
+   <trkpt lat="42.65447" lon="-86.1972"/>
+   <trkpt lat="42.65453" lon="-86.1949"/>
+   <trkpt lat="42.65453" lon="-86.1949"/>
+   <trkpt lat="42.65457" lon="-86.19298"/>
+   <trkpt lat="42.65462" lon="-86.18566"/>
+   <trkpt lat="42.65465" lon="-86.18393"/>
+   <trkpt lat="42.65469" lon="-86.18284"/>
+   <trkpt lat="42.65478" lon="-86.18166"/>
+   <trkpt lat="42.65478" lon="-86.18166"/>
+   <trkpt lat="42.65496" lon="-86.17919"/>
+   <trkpt lat="42.65497" lon="-86.17835"/>
+   <trkpt lat="42.65495" lon="-86.1777"/>
+   <trkpt lat="42.65485" lon="-86.17631"/>
+   <trkpt lat="42.6547" lon="-86.17376"/>
+   <trkpt lat="42.65473" lon="-86.1734"/>
+   <trkpt lat="42.65479" lon="-86.17309"/>
+   <trkpt lat="42.6554" lon="-86.17117"/>
+   <trkpt lat="42.65615" lon="-86.16862"/>
+   <trkpt lat="42.65711" lon="-86.16527"/>
+   <trkpt lat="42.65742" lon="-86.16428"/>
+   <trkpt lat="42.65758" lon="-86.16386"/>
+   <trkpt lat="42.65793" lon="-86.16315"/>
+   <trkpt lat="42.65831" lon="-86.16253"/>
+   <trkpt lat="42.65915" lon="-86.16107"/>
+   <trkpt lat="42.6605" lon="-86.15876"/>
+   <trkpt lat="42.6606" lon="-86.15852"/>
+   <trkpt lat="42.66114" lon="-86.15716"/>
+   <trkpt lat="42.66119" lon="-86.1569"/>
+   <trkpt lat="42.66117" lon="-86.15654"/>
+   <trkpt lat="42.66077" lon="-86.15416"/>
+   <trkpt lat="42.6607" lon="-86.15387"/>
+   <trkpt lat="42.6606" lon="-86.1536"/>
+   <trkpt lat="42.66049" lon="-86.1534"/>
+   <trkpt lat="42.66031" lon="-86.1531"/>
+   <trkpt lat="42.66004" lon="-86.15239"/>
+   <trkpt lat="42.65925" lon="-86.14972"/>
+   <trkpt lat="42.65862" lon="-86.14738"/>
+   <trkpt lat="42.65789" lon="-86.145"/>
+   <trkpt lat="42.6575" lon="-86.14376"/>
+   <trkpt lat="42.65729" lon="-86.14322"/>
+   <trkpt lat="42.65718" lon="-86.143"/>
+   <trkpt lat="42.65699" lon="-86.14272"/>
+   <trkpt lat="42.65221" lon="-86.13808"/>
+   <trkpt lat="42.65207" lon="-86.13795"/>
+   <trkpt lat="42.65192" lon="-86.13776"/>
+   <trkpt lat="42.65186" lon="-86.13761"/>
+   <trkpt lat="42.65184" lon="-86.13743"/>
+   <trkpt lat="42.65183" lon="-86.13714"/>
+   <trkpt lat="42.65192" lon="-86.13532"/>
+   <trkpt lat="42.65192" lon="-86.13532"/>
+   <trkpt lat="42.65196" lon="-86.13438"/>
+  </trkseg>
+ </trk>
+</gpx>
