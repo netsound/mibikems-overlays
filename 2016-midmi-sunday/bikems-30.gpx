@@ -1,0 +1,18 @@
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2016-07-11T23:59:25.698Z</time>
+    </metadata>
+    <trk>
+        <name>Untitled Track</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="5.119629" lat="16.728276"></trkpt>
+        </trkseg>
+    </trk>
+</gpx>
