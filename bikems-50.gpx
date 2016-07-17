@@ -1,17 +1,18 @@
-<?xml version="1.0" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1">
- <trk>
-  <name>
-   2016-MID-SAT-50
-  </name>
-  <trkseg>
-   <trkpt lat="42.81942" lon="-84.29364"/>
-   <trkpt lat="42.81573" lon="-84.29353"/>
-   <trkpt lat="42.81573" lon="-84.29353"/>
-   <trkpt lat="42.81317" lon="-84.29346"/>
-   <trkpt lat="42.81228" lon="-84.2934"/>
-   <trkpt lat="42.80846" lon="-84.29329"/>
-   <trkpt lat="42.80493" lon="-84.29317"/>
-  </trkseg>
- </trk>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+    <metadata>
+        <name>Untitled Document</name>
+        <time>2016-07-11T23:59:25.698Z</time>
+    </metadata>
+    <trk>
+        <name>Untitled Track</name>
+        <extensions>
+            <gpxx:TrackExtension>
+                <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>
+            </gpxx:TrackExtension>
+        </extensions>
+        <trkseg>
+            <trkpt lon="5.119629" lat="16.728276"></trkpt>
+        </trkseg>
+    </trk>
 </gpx>
