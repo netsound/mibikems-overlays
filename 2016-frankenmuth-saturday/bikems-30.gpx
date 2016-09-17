@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   2016-frankenmuth-saturday-30
+  </name>
+  <trkseg>
+   <trkpt lat="43.32234" lon="-83.55994"/>
+   <trkpt lat="43.32073" lon="-83.55988"/>
+   <trkpt lat="43.32073" lon="-83.55988"/>
+   <trkpt lat="43.31493" lon="-83.55955"/>
+   <trkpt lat="43.31169" lon="-83.55939"/>
+   <trkpt lat="43.30929" lon="-83.55927"/>
+   <trkpt lat="43.30754" lon="-83.55919"/>
+   <trkpt lat="43.30739" lon="-83.55922"/>
+   <trkpt lat="43.30695" lon="-83.55939"/>
+   <trkpt lat="43.30677" lon="-83.55949"/>
+   <trkpt lat="43.30655" lon="-83.55958"/>
+   <trkpt lat="43.30624" lon="-83.55967"/>
+   <trkpt lat="43.30607" lon="-83.55969"/>
+   <trkpt lat="43.30273" lon="-83.55964"/>
+   <trkpt lat="43.29779" lon="-83.55953"/>
+   <trkpt lat="43.2935" lon="-83.55946"/>
+   <trkpt lat="43.28886" lon="-83.55946"/>
+   <trkpt lat="43.28116" lon="-83.55928"/>
+  </trkseg>
+ </trk>
+</gpx>
