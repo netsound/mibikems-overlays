@@ -2,27 +2,23 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>
-   2016-frankenmuth-saturday-30
+   2016-frankenmuth-sunday-30
   </name>
   <trkseg>
-   <trkpt lat="43.32234" lon="-83.55994"/>
-   <trkpt lat="43.32073" lon="-83.55988"/>
-   <trkpt lat="43.32073" lon="-83.55988"/>
-   <trkpt lat="43.31493" lon="-83.55955"/>
-   <trkpt lat="43.31169" lon="-83.55939"/>
-   <trkpt lat="43.30929" lon="-83.55927"/>
-   <trkpt lat="43.30754" lon="-83.55919"/>
-   <trkpt lat="43.30739" lon="-83.55922"/>
-   <trkpt lat="43.30695" lon="-83.55939"/>
-   <trkpt lat="43.30677" lon="-83.55949"/>
-   <trkpt lat="43.30655" lon="-83.55958"/>
-   <trkpt lat="43.30624" lon="-83.55967"/>
-   <trkpt lat="43.30607" lon="-83.55969"/>
-   <trkpt lat="43.30273" lon="-83.55964"/>
-   <trkpt lat="43.29779" lon="-83.55953"/>
-   <trkpt lat="43.2935" lon="-83.55946"/>
-   <trkpt lat="43.28886" lon="-83.55946"/>
-   <trkpt lat="43.28116" lon="-83.55928"/>
+   <trkpt lat="43.24995" lon="-83.86799"/>
+   <trkpt lat="43.24949" lon="-83.86798"/>
+   <trkpt lat="43.24856" lon="-83.86789"/>
+   <trkpt lat="43.24856" lon="-83.86789"/>
+   <trkpt lat="43.24" lon="-83.8671"/>
+   <trkpt lat="43.23891" lon="-83.86699"/>
+   <trkpt lat="43.23775" lon="-83.8667"/>
+   <trkpt lat="43.23749" lon="-83.86666"/>
+   <trkpt lat="43.23625" lon="-83.86635"/>
+   <trkpt lat="43.23609" lon="-83.86626"/>
+   <trkpt lat="43.23595" lon="-83.86613"/>
+   <trkpt lat="43.23569" lon="-83.86578"/>
+   <trkpt lat="43.23544" lon="-83.86526"/>
+   <trkpt lat="43.23536" lon="-83.8651"/>
   </trkseg>
  </trk>
 </gpx>
