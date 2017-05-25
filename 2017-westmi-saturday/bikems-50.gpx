@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   2017-west-sat-50
+  </name>
+  <trkseg>
+   <trkpt lat="42.5935" lon="-86.1916"/>
+   <trkpt lat="42.5925" lon="-86.19158"/>
+   <trkpt lat="42.5925" lon="-86.19158"/>
+   <trkpt lat="42.58947" lon="-86.1914"/>
+   <trkpt lat="42.5858" lon="-86.19124"/>
+   <trkpt lat="42.58291" lon="-86.19109"/>
+   <trkpt lat="42.57873" lon="-86.19084"/>
+   <trkpt lat="42.57788" lon="-86.19078"/>
+  </trkseg>
+ </trk>
+</gpx>
