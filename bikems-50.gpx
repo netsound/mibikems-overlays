@@ -2,24 +2,17 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>
-   2016-frankenmuth-sunday-50
+   2017-west-sat-50
   </name>
   <trkseg>
-   <trkpt lat="43.22019" lon="-83.97159"/>
-   <trkpt lat="43.2202" lon="-83.97133"/>
-   <trkpt lat="43.2202" lon="-83.97133"/>
-   <trkpt lat="43.22026" lon="-83.96416"/>
-   <trkpt lat="43.22027" lon="-83.95806"/>
-   <trkpt lat="43.22027" lon="-83.95615"/>
-   <trkpt lat="43.22027" lon="-83.95615"/>
-   <trkpt lat="43.22026" lon="-83.95209"/>
-   <trkpt lat="43.22026" lon="-83.95141"/>
-   <trkpt lat="43.21713" lon="-83.95121"/>
-   <trkpt lat="43.21713" lon="-83.95121"/>
-   <trkpt lat="43.20848" lon="-83.95072"/>
-   <trkpt lat="43.20617" lon="-83.95059"/>
-   <trkpt lat="43.20617" lon="-83.95059"/>
-   <trkpt lat="43.20504" lon="-83.95053"/>
+   <trkpt lat="42.5935" lon="-86.1916"/>
+   <trkpt lat="42.5925" lon="-86.19158"/>
+   <trkpt lat="42.5925" lon="-86.19158"/>
+   <trkpt lat="42.58947" lon="-86.1914"/>
+   <trkpt lat="42.5858" lon="-86.19124"/>
+   <trkpt lat="42.58291" lon="-86.19109"/>
+   <trkpt lat="42.57873" lon="-86.19084"/>
+   <trkpt lat="42.57788" lon="-86.19078"/>
   </trkseg>
  </trk>
 </gpx>
