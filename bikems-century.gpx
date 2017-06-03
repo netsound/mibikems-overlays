@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>
-   2016-west-sat-century
+   2017-west-sat-century
   </name>
   <trkseg>
    <trkpt lat="42.7183" lon="-86.09518"/>
@@ -63,21 +63,28 @@
    <trkpt lat="42.72423" lon="-85.94166"/>
    <trkpt lat="42.72423" lon="-85.94158"/>
    <trkpt lat="42.72423" lon="-85.94158"/>
-   <trkpt lat="42.72418" lon="-85.93889"/>
-   <trkpt lat="42.72579" lon="-85.93895"/>
-   <trkpt lat="42.72708" lon="-85.93899"/>
-   <trkpt lat="42.72829" lon="-85.93904"/>
-   <trkpt lat="42.72829" lon="-85.93904"/>
-   <trkpt lat="42.73825" lon="-85.93939"/>
-   <trkpt lat="42.73825" lon="-85.93939"/>
-   <trkpt lat="42.73888" lon="-85.93941"/>
-   <trkpt lat="42.73882" lon="-85.9369"/>
-   <trkpt lat="42.73872" lon="-85.93201"/>
-   <trkpt lat="42.73855" lon="-85.92433"/>
-   <trkpt lat="42.73855" lon="-85.92433"/>
-   <trkpt lat="42.73845" lon="-85.91979"/>
-   <trkpt lat="42.74033" lon="-85.91989"/>
-   <trkpt lat="42.74033" lon="-85.91989"/>
+   <trkpt lat="42.72416" lon="-85.93706"/>
+   <trkpt lat="42.72416" lon="-85.93706"/>
+   <trkpt lat="42.72406" lon="-85.92875"/>
+   <trkpt lat="42.72406" lon="-85.92875"/>
+   <trkpt lat="42.72398" lon="-85.92076"/>
+   <trkpt lat="42.72397" lon="-85.91937"/>
+   <trkpt lat="42.724" lon="-85.91714"/>
+   <trkpt lat="42.72404" lon="-85.91169"/>
+   <trkpt lat="42.72411" lon="-85.90701"/>
+   <trkpt lat="42.72416" lon="-85.90449"/>
+   <trkpt lat="42.7243" lon="-85.89999"/>
+   <trkpt lat="42.7243" lon="-85.89996"/>
+   <trkpt lat="42.7323" lon="-85.90025"/>
+   <trkpt lat="42.73872" lon="-85.90051"/>
+   <trkpt lat="42.74172" lon="-85.90061"/>
+   <trkpt lat="42.74304" lon="-85.90066"/>
+   <trkpt lat="42.74304" lon="-85.90066"/>
+   <trkpt lat="42.74937" lon="-85.90085"/>
+   <trkpt lat="42.75325" lon="-85.901"/>
+   <trkpt lat="42.75329" lon="-85.90209"/>
+   <trkpt lat="42.75328" lon="-85.90362"/>
+   <trkpt lat="42.75314" lon="-85.91538"/>
    <trkpt lat="42.75308" lon="-85.9205"/>
    <trkpt lat="42.75313" lon="-85.92356"/>
    <trkpt lat="42.75313" lon="-85.92356"/>
