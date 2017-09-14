@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   2017-frankenmuth-sun-30
+  </name>
+  <trkseg>
+   <trkpt lat="43.24999" lon="-83.86798"/>
+   <trkpt lat="43.24949" lon="-83.86798"/>
+   <trkpt lat="43.24894" lon="-83.86792"/>
+   <trkpt lat="43.24894" lon="-83.86792"/>
+   <trkpt lat="43.24" lon="-83.8671"/>
+   <trkpt lat="43.23891" lon="-83.86699"/>
+   <trkpt lat="43.23775" lon="-83.8667"/>
+   <trkpt lat="43.23749" lon="-83.86666"/>
+   <trkpt lat="43.23625" lon="-83.86635"/>
+   <trkpt lat="43.23609" lon="-83.86626"/>
+   <trkpt lat="43.23595" lon="-83.86613"/>
+   <trkpt lat="43.23569" lon="-83.86578"/>
+   <trkpt lat="43.23548" lon="-83.86536"/>
+   <trkpt lat="43.23548" lon="-83.86536"/>
+   <trkpt lat="43.23535" lon="-83.86508"/>
+   <trkpt lat="43.23544" lon="-83.8613"/>
+   <trkpt lat="43.23554" lon="-83.85419"/>
+   <trkpt lat="43.23577" lon="-83.84738"/>
+   <trkpt lat="43.23615" lon="-83.8348"/>
+   <trkpt lat="43.23593" lon="-83.82617"/>
+   <trkpt lat="43.23573" lon="-83.81459"/>
+   <trkpt lat="43.23568" lon="-83.81392"/>
+   <trkpt lat="43.23561" lon="-83.81345"/>
+   <trkpt lat="43.23556" lon="-83.81272"/>
+   <trkpt lat="43.2357" lon="-83.79442"/>
+   <trkpt lat="43.23726" lon="-83.7944"/>
+   <trkpt lat="43.23726" lon="-83.7944"/>
+   <trkpt lat="43.24976" lon="-83.79433"/>
+  </trkseg>
+ </trk>
+</gpx>

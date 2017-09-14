@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   2017-frankenmuth-sun-50
+  </name>
+  <trkseg>
+   <trkpt lat="43.22019" lon="-83.97155"/>
+   <trkpt lat="43.22022" lon="-83.96872"/>
+   <trkpt lat="43.22022" lon="-83.96872"/>
+   <trkpt lat="43.22027" lon="-83.96173"/>
+   <trkpt lat="43.22027" lon="-83.95545"/>
+   <trkpt lat="43.22026" lon="-83.95141"/>
+   <trkpt lat="43.21043" lon="-83.95082"/>
+   <trkpt lat="43.21043" lon="-83.95082"/>
+   <trkpt lat="43.20504" lon="-83.95053"/>
+  </trkseg>
+ </trk>
+</gpx>
