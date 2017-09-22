@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>
-   2017-frankenmuth-sunday-75-v2
+   2017-frankenmuth-sunday-75-v3
   </name>
   <trkseg>
    <trkpt lat="43.32909" lon="-83.73488"/>
@@ -242,17 +242,16 @@
    <trkpt lat="43.19112" lon="-84.11932"/>
    <trkpt lat="43.18893" lon="-84.11922"/>
    <trkpt lat="43.18793" lon="-84.11918"/>
-   <trkpt lat="43.18697" lon="-84.1192"/>
-   <trkpt lat="43.1863" lon="-84.11923"/>
-   <trkpt lat="43.1863" lon="-84.11923"/>
-   <trkpt lat="43.18594" lon="-84.11924"/>
-   <trkpt lat="43.18593" lon="-84.11844"/>
-   <trkpt lat="43.18589" lon="-84.11813"/>
-   <trkpt lat="43.18576" lon="-84.11777"/>
-   <trkpt lat="43.18577" lon="-84.11767"/>
-   <trkpt lat="43.1857" lon="-84.11751"/>
-   <trkpt lat="43.1857" lon="-84.11751"/>
-   <trkpt lat="43.18474" lon="-84.1155"/>
+   <trkpt lat="43.18789" lon="-84.11774"/>
+   <trkpt lat="43.18783" lon="-84.11746"/>
+   <trkpt lat="43.1877" lon="-84.11706"/>
+   <trkpt lat="43.1872" lon="-84.11603"/>
+   <trkpt lat="43.1871" lon="-84.11582"/>
+   <trkpt lat="43.1871" lon="-84.11582"/>
+   <trkpt lat="43.18669" lon="-84.11498"/>
+   <trkpt lat="43.18624" lon="-84.11396"/>
+   <trkpt lat="43.18609" lon="-84.11408"/>
+   <trkpt lat="43.18609" lon="-84.11408"/>
    <trkpt lat="43.18466" lon="-84.11533"/>
    <trkpt lat="43.18427" lon="-84.1157"/>
    <trkpt lat="43.18427" lon="-84.1157"/>
@@ -515,28 +514,25 @@
    <trkpt lat="43.30633" lon="-83.79434"/>
    <trkpt lat="43.30633" lon="-83.79434"/>
    <trkpt lat="43.30711" lon="-83.79436"/>
-   <trkpt lat="43.30711" lon="-83.79324"/>
-   <trkpt lat="43.30711" lon="-83.79324"/>
-   <trkpt lat="43.3071" lon="-83.78815"/>
-   <trkpt lat="43.30711" lon="-83.77438"/>
-   <trkpt lat="43.30711" lon="-83.76209"/>
-   <trkpt lat="43.30704" lon="-83.75494"/>
-   <trkpt lat="43.30704" lon="-83.75494"/>
-   <trkpt lat="43.30704" lon="-83.75458"/>
-   <trkpt lat="43.31007" lon="-83.7546"/>
-   <trkpt lat="43.31238" lon="-83.75456"/>
-   <trkpt lat="43.31238" lon="-83.75456"/>
-   <trkpt lat="43.31405" lon="-83.75453"/>
-   <trkpt lat="43.31423" lon="-83.75443"/>
-   <trkpt lat="43.31441" lon="-83.75424"/>
-   <trkpt lat="43.31506" lon="-83.75328"/>
-   <trkpt lat="43.31613" lon="-83.75183"/>
-   <trkpt lat="43.31613" lon="-83.75183"/>
-   <trkpt lat="43.31738" lon="-83.75013"/>
-   <trkpt lat="43.31885" lon="-83.7482"/>
-   <trkpt lat="43.32105" lon="-83.74521"/>
-   <trkpt lat="43.32172" lon="-83.7443"/>
-   <trkpt lat="43.32171" lon="-83.7429"/>
+   <trkpt lat="43.30711" lon="-83.79552"/>
+   <trkpt lat="43.31212" lon="-83.7956"/>
+   <trkpt lat="43.31212" lon="-83.7956"/>
+   <trkpt lat="43.31691" lon="-83.79569"/>
+   <trkpt lat="43.31691" lon="-83.79569"/>
+   <trkpt lat="43.32173" lon="-83.79577"/>
+   <trkpt lat="43.32172" lon="-83.79397"/>
+   <trkpt lat="43.3217" lon="-83.79106"/>
+   <trkpt lat="43.32167" lon="-83.78003"/>
+   <trkpt lat="43.32165" lon="-83.77067"/>
+   <trkpt lat="43.32165" lon="-83.76692"/>
+   <trkpt lat="43.32165" lon="-83.76692"/>
+   <trkpt lat="43.32165" lon="-83.76655"/>
+   <trkpt lat="43.32167" lon="-83.76416"/>
+   <trkpt lat="43.32178" lon="-83.75803"/>
+   <trkpt lat="43.32183" lon="-83.75512"/>
+   <trkpt lat="43.32182" lon="-83.75252"/>
+   <trkpt lat="43.32182" lon="-83.75252"/>
+   <trkpt lat="43.3217" lon="-83.7429"/>
    <trkpt lat="43.3217" lon="-83.7429"/>
    <trkpt lat="43.3216" lon="-83.73513"/>
    <trkpt lat="43.3216" lon="-83.73513"/>
