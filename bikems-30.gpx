@@ -2,31 +2,37 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
   <name>
-   2017-frankenmuth-sat-30
+   2017-frankenmuth-sun-30
   </name>
   <trkseg>
-   <trkpt lat="43.32236" lon="-83.55994"/>
-   <trkpt lat="43.32183" lon="-83.55994"/>
-   <trkpt lat="43.31999" lon="-83.55985"/>
-   <trkpt lat="43.31495" lon="-83.55955"/>
-   <trkpt lat="43.31428" lon="-83.55953"/>
-   <trkpt lat="43.31063" lon="-83.55933"/>
-   <trkpt lat="43.30811" lon="-83.55921"/>
-   <trkpt lat="43.30811" lon="-83.55921"/>
-   <trkpt lat="43.30754" lon="-83.55919"/>
-   <trkpt lat="43.30739" lon="-83.55922"/>
-   <trkpt lat="43.30695" lon="-83.55939"/>
-   <trkpt lat="43.30677" lon="-83.55949"/>
-   <trkpt lat="43.30655" lon="-83.55958"/>
-   <trkpt lat="43.30624" lon="-83.55967"/>
-   <trkpt lat="43.30607" lon="-83.55969"/>
-   <trkpt lat="43.30309" lon="-83.55965"/>
-   <trkpt lat="43.30045" lon="-83.55959"/>
-   <trkpt lat="43.29587" lon="-83.5595"/>
-   <trkpt lat="43.2921" lon="-83.55945"/>
-   <trkpt lat="43.28886" lon="-83.55946"/>
-   <trkpt lat="43.28483" lon="-83.55936"/>
-   <trkpt lat="43.28116" lon="-83.55928"/>
+   <trkpt lat="43.24999" lon="-83.86798"/>
+   <trkpt lat="43.24949" lon="-83.86798"/>
+   <trkpt lat="43.24894" lon="-83.86792"/>
+   <trkpt lat="43.24894" lon="-83.86792"/>
+   <trkpt lat="43.24" lon="-83.8671"/>
+   <trkpt lat="43.23891" lon="-83.86699"/>
+   <trkpt lat="43.23775" lon="-83.8667"/>
+   <trkpt lat="43.23749" lon="-83.86666"/>
+   <trkpt lat="43.23625" lon="-83.86635"/>
+   <trkpt lat="43.23609" lon="-83.86626"/>
+   <trkpt lat="43.23595" lon="-83.86613"/>
+   <trkpt lat="43.23569" lon="-83.86578"/>
+   <trkpt lat="43.23548" lon="-83.86536"/>
+   <trkpt lat="43.23548" lon="-83.86536"/>
+   <trkpt lat="43.23535" lon="-83.86508"/>
+   <trkpt lat="43.23544" lon="-83.8613"/>
+   <trkpt lat="43.23554" lon="-83.85419"/>
+   <trkpt lat="43.23577" lon="-83.84738"/>
+   <trkpt lat="43.23615" lon="-83.8348"/>
+   <trkpt lat="43.23593" lon="-83.82617"/>
+   <trkpt lat="43.23573" lon="-83.81459"/>
+   <trkpt lat="43.23568" lon="-83.81392"/>
+   <trkpt lat="43.23561" lon="-83.81345"/>
+   <trkpt lat="43.23556" lon="-83.81272"/>
+   <trkpt lat="43.2357" lon="-83.79442"/>
+   <trkpt lat="43.23726" lon="-83.7944"/>
+   <trkpt lat="43.23726" lon="-83.7944"/>
+   <trkpt lat="43.24976" lon="-83.79433"/>
   </trkseg>
  </trk>
 </gpx>
