@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>2018-mid-sun-50</name>
+  <trkseg>
+   <trkpt lat="42.81942" lon="-84.29364"/>
+   <trkpt lat="42.81276" lon="-84.29344"/>
+   <trkpt lat="42.81175" lon="-84.29339"/>
+   <trkpt lat="42.80992" lon="-84.29333"/>
+   <trkpt lat="42.80497" lon="-84.29317"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>2018-mid-sat-30</name>
+  <trkseg>
+   <trkpt lat="42.61114" lon="-84.48358"/>
+   <trkpt lat="42.61113" lon="-84.47725"/>
+   <trkpt lat="42.61114" lon="-84.47524"/>
+   <trkpt lat="42.61115" lon="-84.47394"/>
+   <trkpt lat="42.61114" lon="-84.47156"/>
+   <trkpt lat="42.61116" lon="-84.46444"/>
+   <trkpt lat="42.61116" lon="-84.46383"/>
+   <trkpt lat="42.61117" lon="-84.46366"/>
+   <trkpt lat="42.61117" lon="-84.46238"/>
+   <trkpt lat="42.61111" lon="-84.45719"/>
+   <trkpt lat="42.61104" lon="-84.45273"/>
+   <trkpt lat="42.61104" lon="-84.45233"/>
+   <trkpt lat="42.61104" lon="-84.45233"/>
+   <trkpt lat="42.61105" lon="-84.44286"/>
+   <trkpt lat="42.611" lon="-84.43298"/>
+   <trkpt lat="42.611" lon="-84.42304"/>
+   <trkpt lat="42.61096" lon="-84.41336"/>
+   <trkpt lat="42.61092" lon="-84.41017"/>
+   <trkpt lat="42.61091" lon="-84.40795"/>
+   <trkpt lat="42.61092" lon="-84.40416"/>
+   <trkpt lat="42.61092" lon="-84.40228"/>
+   <trkpt lat="42.61097" lon="-84.39645"/>
+   <trkpt lat="42.61094" lon="-84.39344"/>
+   <trkpt lat="42.6109" lon="-84.38376"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>2018-mid-sat-50</name>
+  <trkseg>
+   <trkpt lat="42.59662" lon="-84.50315"/>
+   <trkpt lat="42.59661" lon="-84.49941"/>
+   <trkpt lat="42.59662" lon="-84.49036"/>
+   <trkpt lat="42.59662" lon="-84.49036"/>
+   <trkpt lat="42.59663" lon="-84.48351"/>
+   <trkpt lat="42.59137" lon="-84.48348"/>
+   <trkpt lat="42.58462" lon="-84.48348"/>
+   <trkpt lat="42.58462" lon="-84.48348"/>
+   <trkpt lat="42.58174" lon="-84.48346"/>
+   <trkpt lat="42.57868" lon="-84.48344"/>
+   <trkpt lat="42.57581" lon="-84.48342"/>
+   <trkpt lat="42.57451" lon="-84.48342"/>
+  </trkseg>
+ </trk>
+</gpx>
