@@ -5,7 +5,7 @@
     <link href="https://ridewithgps.com/routes/39319354">
       <text>Bike MS:  West MI 2022-50 mile Day 2</text>
     </link>
-    <time>2022-05-05T10:52:00Z</time>
+    <time>2022-05-05T13:52:00Z</time>
   </metadata>
   <trk>
     <name>Bike MS:  West MI 2022-50 mile Day 2</name>
@@ -5662,6 +5662,9 @@
       <trkpt lat="42.79207" lon="-86.11202">
         <ele>179.1</ele>
       </trkpt>
+      <trkpt lat="42.79172" lon="-86.11202">
+        <ele>179.4</ele>
+      </trkpt>
       <trkpt lat="42.79126" lon="-86.11202">
         <ele>179.6</ele>
       </trkpt>
@@ -5677,23 +5680,26 @@
       <trkpt lat="42.78937" lon="-86.1120399">
         <ele>183.0</ele>
       </trkpt>
-      <trkpt lat="42.78931" lon="-86.11205">
+      <trkpt lat="42.78937" lon="-86.1120399">
         <ele>183.0</ele>
       </trkpt>
-      <trkpt lat="42.78928" lon="-86.11206">
-        <ele>183.0</ele>
+      <trkpt lat="42.78937" lon="-86.11106">
+        <ele>183.4</ele>
       </trkpt>
-      <trkpt lat="42.78852" lon="-86.11203">
+      <trkpt lat="42.78938" lon="-86.11071">
+        <ele>183.5</ele>
+      </trkpt>
+      <trkpt lat="42.78938" lon="-86.1105">
         <ele>183.7</ele>
       </trkpt>
-      <trkpt lat="42.78844" lon="-86.11203">
-        <ele>183.8</ele>
+      <trkpt lat="42.78939" lon="-86.10897">
+        <ele>185.5</ele>
       </trkpt>
-      <trkpt lat="42.78844" lon="-86.11203">
-        <ele>183.8</ele>
+      <trkpt lat="42.78939" lon="-86.10897">
+        <ele>185.5</ele>
       </trkpt>
-      <trkpt lat="42.78845" lon="-86.1118">
-        <ele>183.9</ele>
+      <trkpt lat="42.78845" lon="-86.10896">
+        <ele>185.8</ele>
       </trkpt>
       <trkpt lat="42.78845" lon="-86.10896">
         <ele>185.8</ele>
@@ -5714,6 +5720,9 @@
         <ele>186.1</ele>
       </trkpt>
       <trkpt lat="42.7885" lon="-86.10551">
+        <ele>186.1</ele>
+      </trkpt>
+      <trkpt lat="42.7885" lon="-86.10544">
         <ele>186.1</ele>
       </trkpt>
       <trkpt lat="42.7885" lon="-86.10502">

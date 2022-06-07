@@ -5,7 +5,7 @@
     <link href="https://ridewithgps.com/routes/39051121">
       <text>Bike MS:  West MI 2022-30 mile Day 2</text>
     </link>
-    <time>2022-04-12T09:52:22Z</time>
+    <time>2022-04-12T12:52:22Z</time>
   </metadata>
   <trk>
     <name>Bike MS:  West MI 2022-30 mile Day 2</name>
@@ -3285,6 +3285,15 @@
       </trkpt>
       <trkpt lat="42.78938" lon="-86.1105">
         <ele>183.7</ele>
+      </trkpt>
+      <trkpt lat="42.789389" lon="-86.109055">
+        <ele>185.5</ele>
+      </trkpt>
+      <trkpt lat="42.78939" lon="-86.109029">
+        <ele>185.5</ele>
+      </trkpt>
+      <trkpt lat="42.78939" lon="-86.108986">
+        <ele>185.5</ele>
       </trkpt>
       <trkpt lat="42.78939" lon="-86.10897">
         <ele>185.5</ele>
